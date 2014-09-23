@@ -1,0 +1,15 @@
+{
+  "name": "wordpress-starter",
+  "version": "1.0.0",
+  "description": "wordpress starter theme",
+  "repository": {
+    "type": "git",
+    "https://github.com/mkessel007/wordpress-starter-theme-001.git"
+  },
+  "keywords": [
+    "wordpress",
+    "theme"
+  ],
+  "author": "Michael Kessel"
+
+}
